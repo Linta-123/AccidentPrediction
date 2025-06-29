@@ -24,5 +24,5 @@ This project aims to build a predictive model that can estimate the probability 
 - **Languages**: Python
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Web Framework**: Streamlit 
--
+
 
